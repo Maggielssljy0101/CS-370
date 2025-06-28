@@ -2,6 +2,8 @@
 Current/Emerging Trends in CS
 
 Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+
+
 In this project, I developed a reinforcement learning agent—a pirate navigating a grid to locate treasure and avoid obstacles. I was provided with a basic environment setup and framework to get started, including some initial agent structure and environment rules. From there, I created the deep Q-learning logic myself. This included designing the neural network model, building the training loop, managing epsilon-greedy exploration, implementing reward feedback, and fine-tuning hyperparameters for better agent performance. I also handled visualization and evaluation of the agent’s learning process over time.
 
 Throughout this course, I’ve gained a deeper understanding of how artificial intelligence—and reinforcement learning specifically—fits into the larger field of computer science. Computer scientists design systems that solve real-world problems using algorithms, data structures, and software engineering principles. Their work matters because it powers the technologies that drive innovation, from smart assistants to medical diagnostics to self-driving cars. Reinforcement learning, for example, plays a role in robotics, logistics, finance, and even personalized content recommendations.
